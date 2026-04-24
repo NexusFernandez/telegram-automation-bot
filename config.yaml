@@ -1,0 +1,23 @@
+telegram:
+  token: "ton_token_telegram_ici"
+
+ollama:
+  base_url: "http://localhost:11434"
+  model: "gemma3:27b"
+  timeout: 30
+
+commands:
+  schedule:
+    time_format: "HH:mm"
+    reminder_channel: "@ton_canal_alertes"
+    enabled: true
+  alerts:
+    enabled: true
+    notification_delay: 300  # secondes
+  report:
+    enabled: true
+    include_stats: true
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s — %(levelname)s — %(message)s"
