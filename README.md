@@ -81,13 +81,17 @@ This repository contains the open-source version under MIT license.
 
 **For the full commercial version with premium features:**
 
-👉 **[Get it on Gumroad](https://gumroad.com/l/telegram-bot) — 21 EUR**
+👉 **[Get it on Gumroad →](https://nexusmind30.gumroad.com)** — €21
 
 Premium features include:
 - Multi-chat management dashboard
 - CRM integration hooks
 - Advanced scheduling with timezone support
 - Priority support
+
+**Also available:** [RSS Opportunity Radar](https://github.com/NexusFernandez/rss-opportunity-radar) — AI-summarized opportunity digest from any RSS feed — €19
+
+**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com)
 
 ## 🛠️ Tech Stack
 
