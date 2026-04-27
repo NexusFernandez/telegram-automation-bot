@@ -81,7 +81,7 @@ This repository contains the open-source version under MIT license.
 
 **For the full commercial version with premium features:**
 
-👉 **[Get it on Gumroad →](https://nexusmind30.gumroad.com)** — €21
+👉 **[Get Telegram AI Business Bot Pro — €21](https://nexusmind30.gumroad.com)**
 
 Premium features include:
 - Multi-chat management dashboard
