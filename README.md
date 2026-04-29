@@ -1,28 +1,36 @@
-# 🤖 Telegram AI Business Bot
+<h1 align="center">🤖 Telegram AI Business Bot</h1>
 
-> Python Telegram bot automation toolkit — lead scraping, smart notifications, and AI-powered workflow automation.
+<p align="center">
+  <strong>Python Telegram bot with AI-powered reports, scheduling, alerts, and chat.</strong><br>
+  Runs 100% locally with Ollama. No API keys. No subscriptions.
+</p>
 
-A practical Telegram command bot for operators, freelancers, and founders who want a **private control panel inside Telegram**.
+<p align="center">
+  <a href="https://nexusmind30.gumroad.com/l/wkyts">
+    <img src="https://img.shields.io/badge/Get%20Pro%20Version-Gumroad-36b37e?style=for-the-badge&logo=gumroad" alt="Get on Gumroad">
+  </a>
+  <a href="https://github.com/NexusFernandez/telegram-automation-bot/stargazers">
+    <img src="https://img.shields.io/github/stars/NexusFernandez/telegram-automation-bot?style=social" alt="Stars">
+  </a>
+</p>
 
-![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Ollama](https://img.shields.io/badge/AI-Ollama-orange)
+---
 
 ## ✨ Features
 
-### /report — Business Reports
+### /report — Business Reports 📊
 Generate daily/weekly business reports with key metrics, summaries, and action items. Powered by local AI (Ollama).
 
-### /schedule — Smart Scheduling
+### /schedule — Smart Scheduling ⏰
 Schedule reminders and recurring tasks. Never miss a deadline or follow-up again.
 
-### /alert — Automated Alerts
+### /alert — Automated Alerts 🔔
 Set up keyword-based alerts and notifications. Monitor RSS feeds, prices, or any webhook source.
 
-### /memo — Quick Notes
+### /memo — Quick Notes 📝
 Capture ideas, meeting notes, and to-dos in your private Telegram chat. Searchable and organized.
 
-### /ai — AI Assistant
+### /ai — AI Assistant 🧠
 Chat with a local AI model (Ollama) directly in Telegram. No data leaves your machine.
 
 ## 🚀 Quick Start
@@ -46,9 +54,9 @@ python bot.py
 
 ### Prerequisites
 
-- Python 3.10+
-- Telegram bot token (from [@BotFather](https://t.me/BotFather))
-- [Ollama](https://ollama.ai) running locally (for /ai command)
+- **Python 3.10+**
+- **Telegram bot token** (from [@BotFather](https://t.me/BotFather))
+- **[Ollama](https://ollama.ai)** running locally (for /ai command)
 
 ## ⚙️ Configuration
 
@@ -75,23 +83,24 @@ commands:
     include_stats: true
 ```
 
-## 🏢 Commercial License
+## 🔒 Privacy First
 
-This repository contains the open-source version under MIT license.
+| Feature | This Bot | Typical SaaS Bot |
+|:--------|:---------|:-----------------|
+| **Your data** | Stays on your machine | Sent to cloud |
+| **AI processing** | Local (Ollama) | Remote API |
+| **API keys needed** | None | OpenAI, etc. |
+| **Monthly cost** | €0 after purchase | $10-50/month |
+| **Source code** | Full Python source | Black box |
 
-**For the full commercial version with premium features:**
+## ⬆️ Pro Version — €21
 
-👉 **[Get Telegram AI Business Bot Pro — €21](https://nexusmind30.gumroad.com)**
+The free version is MIT-licensed and fully functional. **[Get the Pro version on Gumroad →](https://nexusmind30.gumroad.com/l/wkyts)** for:
 
-Premium features include:
 - Multi-chat management dashboard
 - CRM integration hooks
 - Advanced scheduling with timezone support
 - Priority support
-
-**Also available:** [RSS Opportunity Radar](https://github.com/NexusFernandez/rss-opportunity-radar) — AI-summarized opportunity digest from any RSS feed — €19
-
-**Full catalog:** [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com)
 
 ## 🛠️ Tech Stack
 
@@ -100,10 +109,15 @@ Premium features include:
 - **Ollama** — local AI inference (Gemma3, Llama3, etc.)
 - **PyYAML** — configuration management
 
-## 📄 License
+---
 
-MIT License — see [LICENSE](LICENSE) for details.
+## 📦 More Tools from Nexus
+
+- **[RSS Opportunity Radar](https://github.com/NexusFernandez/rss-opportunity-radar)** — AI-summarized opportunity digest from RSS feeds (€19)
+- **[All 12 AI Tools →](https://nexusmind30.gumroad.com)** — Python tools for freelancers, founders, and data analysts
 
 ---
+
+**⭐ Star this repo** if you find it useful!
 
 Built by [Nexus Fernandez](https://github.com/NexusFernandez) · [nexusmind30.gumroad.com](https://nexusmind30.gumroad.com)
